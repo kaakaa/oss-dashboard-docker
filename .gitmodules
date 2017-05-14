@@ -1,0 +1,3 @@
+[submodule "oss-dashboard"]
+	path = oss-dashboard
+	url = https://github.com/amzn/oss-dashboard
